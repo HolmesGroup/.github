@@ -15,4 +15,4 @@ assignees: ''
 - [ ] 
 
 ### Notes
-<!-- Additional information/reasoning for decision -->
+<!-- Additional information/reasoning for decision or notes about the possible implementation -->
