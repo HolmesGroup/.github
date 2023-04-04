@@ -1,5 +1,5 @@
 ---
-name: Code Refactor
+name: Code refactor
 about: Something that will enable value to be delivered to the user in the future
 title: ''
 labels: ['refactor', ':hammer: refactor', 'refactor :hammer:']
@@ -15,4 +15,4 @@ assignees: ''
 - [ ] 
 
 ### Notes
-<!-- Any additional information that is of use. -->
+<!-- Any additional information that might help with the implementation. -->
